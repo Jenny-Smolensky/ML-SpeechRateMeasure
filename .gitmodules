@@ -1,0 +1,3 @@
+[submodule "ClassificationSpeechNet"]
+	path = ClassificationSpeechNet
+	url = https://github.com/Jenny-Smolensky/ClassificationSpeechNet
