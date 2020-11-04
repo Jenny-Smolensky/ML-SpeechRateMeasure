@@ -1,3 +1,9 @@
 [submodule "ClassificationSpeechNet"]
 	path = ClassificationSpeechNet
 	url = https://github.com/Jenny-Smolensky/ClassificationSpeechNet
+[submodule "SpeechVowelsNet"]
+	path = SpeechVowelsNet
+	url = https://github.com/almog1/SpeechVowelsNet
+[submodule "LibriSpeechFilesParser"]
+	path = LibriSpeechFilesParser
+	url = https://github.com/Jenny-Smolensky/LibriSpeechFilesParser
