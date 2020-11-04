@@ -17,7 +17,7 @@ This project contains three projects, that can be used separately:
 * ### LibriSpeechFilesParser
     Code to parse libri-speech data for speech measure project. <br />
     This code allows to separate each audio file according to vowels mentioned in it's corresponding alignment file. <br />
-     For further documentation click on  [LibriSpeechFilesParser README](https://github.com/JennySmolensky/LibriSpeechFilesParser/blob/ffd91057493367281266af400119f64ab4cd81ab/README.md)
+     For further documentation click on  [LibriSpeechFilesParser README](https://github.com/Jenny-Smolensky/LibriSpeechFilesParser/blob/ffd91057493367281266af400119f64ab4cd81ab/README.md)
 
 
 ## Authors
