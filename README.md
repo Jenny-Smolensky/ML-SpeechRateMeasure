@@ -16,7 +16,7 @@ This project contains three projects, that can be used separately:
     Code to parse libri-speech data for speech measure project.
     This code allows to separate each audio file according to vowels mentioned in it's corresponding alignment file.
 
-For farther documentation go to README file in each of the modules.
+For further documentation go to README file in each of the modules.
 
 ## Authors
 
